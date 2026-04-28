@@ -130,16 +130,16 @@ Full source code is private but available upon request.
 ---
 
 ## 📸 Screenshots
-##Website UI
+## Website UI
 <img width="1364" height="595" alt="image" src="https://github.com/user-attachments/assets/74f3b712-e355-43f5-ad94-8dea270b2e1b" />
 
-##Jenkins pipeline
+## Jenkins pipeline
 <img width="895" height="348" alt="image" src="https://github.com/user-attachments/assets/7589fd32-ae51-4c7d-a9e5-6fe107612efc" />
 
-##AWS EC2
+## AWS EC2
 <img width="1358" height="475" alt="image" src="https://github.com/user-attachments/assets/e9b3b88e-947b-48c1-b25f-cea3f8c910d9" />
 
-#Terminal (docker ps)
+## Terminal (docker ps)
 <img width="1332" height="191" alt="image" src="https://github.com/user-attachments/assets/a924b345-10d3-40ad-bd1d-cdcf9e9b2e6b" />
 
 
