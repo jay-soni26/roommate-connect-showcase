@@ -41,7 +41,7 @@ User → Domain → NGINX → Frontend (Docker)
                         ↓
                   PostgreSQL
 
-                  ```mermaid
+```mermaid
 graph TD
     User((User))
     Admin((Admin))
